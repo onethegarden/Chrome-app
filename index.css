@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(240, 154, 154);
+}
+.clicked {
+    color: #7f8c8d;
+}
+.form,
+.greettings{
+    display : none;
+}
+.showing{
+    display:block;
+}
