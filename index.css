@@ -4,10 +4,10 @@ body{
 .clicked {
     color: #7f8c8d;
 }
-.form,
-.greettings{
+/* .form,
+.greetings {
     display : none;
 }
-.showing{
-    display:block;
-}
+.showing {
+    display: block;
+} */
